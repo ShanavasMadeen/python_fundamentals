@@ -1,4 +1,4 @@
-# python_fundamentals
+# Python_fundamentals
 Learning python fundamentals
 
 Installed Anaconda individual version and selected python 3.0 from anaconda.com
@@ -34,7 +34,7 @@ name ="""Shan"""
 print(name)
 output : int
 
-# for commenting
+'#' is used for commenting
 somenumb = 1
 type(somenumb)
 output : int
