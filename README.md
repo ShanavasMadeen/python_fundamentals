@@ -39,4 +39,19 @@ somenumb = 1
 type(somenumb)
 output : int
 
+# String methods
+
+str.title() - to change it to sentence case
+str.upper()
+str.lower()
+
+#Introduction to f strings
+
+firstName = "Shan"
+lastname = "avas"
+fullname = f"full name is >> {firstName}{lastname}"
+print(fullname.title())
+output: Full Name Is >> Shanavas
+
+/n /t all work within a str
 
